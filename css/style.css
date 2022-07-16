@@ -1,0 +1,97 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bebas+Neue&display=swap');
+
+html{
+    width: 100%;
+}
+
+header,main{
+    background-color: #ffc759;
+}
+
+.link_menu_header{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 28px;
+}
+
+.text_font{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.text_font_alfa{
+    font-family: 'Alfa Slab One', cursive;
+    color: #3d2514;
+}
+.title-box p{
+    font-size: 35px;
+    border: dashed 4px #000;
+    
+    text-align: center;
+    
+}
+.title-box h1{
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 150px;
+    text-shadow: 5px 5px #fff;
+}
+.title-box h4{
+    font-family: 'Alfa Slab One', cursive;
+    font-size:100px;
+    text-shadow: 5px 5px #fff;
+}
+
+#btn-01{
+    font-family:'Bebas Neue', cursive;
+    font-size: 40px;
+    
+} 
+.h1_font{
+    font-family: 'Alfa Slab One', cursive;
+    font-size:80px;
+}
+.botao_ancora{
+    text-decoration: none;
+    color: #fff;
+    font-family:'Alfa Slab One', cursive; 
+    display: block;
+    background-color: red;
+    transition: 1.5s;
+}
+
+.card_personalizado{
+    border: none;
+    box-shadow: 15px 15px 15px 8px rgba(0, 0,0, 0.10);
+    display: flex;
+    flex-direction: row; 
+}
+
+.input_customizado{
+    border: 1px solid rgba(0,0,0, 0.10);
+    font-family: 'Bebas Neue', cursive ;
+    font-size: 20px;
+    border-radius: 6px;
+}
+
+.input_customizado_btn{
+    background-color: red;
+    border: none;
+    color: #fff;
+    font-family: 'Alfa Slab One', cursive;
+    border-radius: 6px;
+}
+
+.last-container{
+    background-image: url(/images/bg-last.png);
+}
+
+.text_font_last{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+}
+.img-burguer-full{
+    transition: 1.5s;
+}
+
+.nav-responsive{
+
+}

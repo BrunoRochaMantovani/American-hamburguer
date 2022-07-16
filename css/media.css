@@ -1,0 +1,103 @@
+@media only screen and (min-width:1025px) and (max-width:1500px) {
+    .title-box h1 {
+        font-family: 'Alfa Slab One', cursive;
+        font-size: 100px;
+        text-shadow: 5px 5px #fff;
+    }
+
+    .text-font{
+        font-size: 70px;
+    }
+
+    .title-box h4 {
+        font-family: 'Alfa Slab One', cursive;
+        font-size: 80px;
+        text-shadow: 5px 5px #fff;
+    }
+
+    .botao_ancora {
+        text-decoration: none;
+        color: #fff;
+        font-size: 10px;
+        font-family: 'Alfa Slab One', cursive;
+        display: block;
+        background-color: red;
+
+    }
+
+}
+
+@media only screen and (min-width:769px) and (max-width:1024px) {
+    .title-box h1 {
+        font-family: 'Alfa Slab One', cursive;
+        font-size: 80px;
+        text-shadow: 5px 5px #fff;
+    }
+
+    .title-box h4 {
+        font-family: 'Alfa Slab One', cursive;
+        font-size: 60px;
+        text-shadow: 5px 5px #fff;
+    }
+
+    .card_personalizado {
+        border: 0.5 px solid rgb(0, 0, 0);
+        box-shadow: 15px 15px 15px 12px rgba(0, 0, 0, 0.15);
+        
+    }
+    #imagem-solo{
+        display: none;
+        
+    }
+    .input_customizado{
+        border: 1px solid rgba(0,0,0, 0.10);
+        font-family: 'Bebas Neue', cursive ;
+        font-size: 20px;
+        border-radius: 6px;
+    }
+    .text-font{
+        font-family: 'Bebas Neue', cursive;
+        font-size: 60px;
+    }
+}
+
+
+
+@media only screen and (min-width:320px) and (max-width:768px) {
+    .title-box h1 {
+        font-family: 'Alfa Slab One', cursive;
+        font-size: 50px;
+        text-shadow: 5px 5px #fff;
+    }
+    .logo{flex-direction:column!important; justify-content:center!important; align-items: center!important; }/*flex-column*/
+    .nav-menu{justify-content: center!important;}
+
+    .title-box h4 {
+        font-family: 'Alfa Slab One', cursive;
+        font-size: 20px;
+        text-shadow: 5px 5px #fff;
+    }
+    
+    .mota{
+        display: none;
+    }
+    .card_personalizado {
+        border: 0.5 px solid rgb(0, 0, 0);
+        box-shadow: 15px 15px 15px 12px rgba(0, 0, 0, 0.15);
+        
+    }
+    #imagem-solo{
+        display: none;
+        
+    }
+    .text-font{
+        font-family: 'Bebas Neue', cursive;
+        font-size: 20px;
+    }
+  
+}
+
+/* @media only screen and (min-width:320px) {
+    
+    .
+} */
